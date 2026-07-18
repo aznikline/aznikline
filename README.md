@@ -20,7 +20,7 @@ Building high-leverage open source contributions and personal technical assets.
 - [interview](https://github.com/aznikline/interview) — 带工程化工具链(内容索引/文档lint/进度看板)的中文面试工程库 — 后端/算法/系统设计/OS/LLM/AI Infra/AI编译器 ⭐ 1
 - [baselines](https://github.com/aznikline/baselines) — OpenAI Baselines: high-quality implementations of reinforcement learning algorithms ⭐ 1
 - [spinningup](https://github.com/aznikline/spinningup) — An educational resource to help anyone learn deep reinforcement learning. ⭐ 1
-- [ghm-actions](https://github.com/aznikline/ghm-actions) — GitHub Actions for ghm — aznikline's GitHub Maintain Tool ⭐ 0
+- [agate](https://github.com/aznikline/agate) — Capability-based AArch64 microkernel for AI agent workloads ⭐ 0
 
 ---
 
