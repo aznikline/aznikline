@@ -4,16 +4,16 @@ Building high-leverage open source contributions and personal technical assets.
 
 ## 🔥 Trending This Week
 
-- [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) ⭐ 1875 `Python` — 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
-- [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) ⭐ 1299 `JavaScript` — Your clothes, extracted and organized with gpt-image.
-- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) ⭐ 990 `TypeScript` — yoink any video from your terminal. no shady ads.
-- [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) ⭐ 920 `Go` — Use LLMs to hide messages inside normal looking conversations
-- [v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter) ⭐ 805 `Dart` — V- Modal AI: Search anything anywhere SDK Flutter
+- [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) ⭐ 1904 `Python` — 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
+- [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) ⭐ 1307 `JavaScript` — Your clothes, extracted and organized with gpt-image.
+- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) ⭐ 994 `TypeScript` — yoink any video from your terminal. no shady ads.
+- [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) ⭐ 925 `Go` — Use LLMs to hide messages inside normal looking conversations
+- [v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter) ⭐ 809 `Dart` — V- Modal AI: Search anything anywhere SDK Flutter
 - [MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot) ⭐ 739 `Solidity` — An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
-- [Blaizzy/nativ](https://github.com/Blaizzy/nativ) ⭐ 666 `Swift` — Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
-- [xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video) ⭐ 604 `Python` — Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.
+- [Blaizzy/nativ](https://github.com/Blaizzy/nativ) ⭐ 671 `Swift` — Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
+- [xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video) ⭐ 607 `Python` — Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.
 - [EthanXiang777/circuit-framework](https://github.com/EthanXiang777/circuit-framework) ⭐ 487 `Python` — Circuit Framework — multi-agent LLM trading research system
-- [smixs/pohuy](https://github.com/smixs/pohuy) ⭐ 482 — Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+
+- [smixs/pohuy](https://github.com/smixs/pohuy) ⭐ 486 — Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+
 
 ---
 
